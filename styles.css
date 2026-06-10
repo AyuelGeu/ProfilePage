@@ -1,6 +1,10 @@
 body{
     background-color:cadetblue;
     color:black;
-    font-family: Times New Roman;
-    
+}
+#nav{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 20px;
 }
