@@ -5,7 +5,8 @@
     display: flex;
     margin: 18px;
     height: 30px;
-    margin-top: 0px;
+    align-items: center;
+    justify-content: center;
 }
 #nav a{
     color: white;
