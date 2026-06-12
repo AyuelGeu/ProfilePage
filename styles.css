@@ -46,4 +46,7 @@ li{
     border: 1px solid black;
     padding: 20px;
     width: 45%;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
 }
