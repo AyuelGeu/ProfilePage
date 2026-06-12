@@ -33,3 +33,12 @@
 li{
     list-style: none;
 }
+@keyframes  animateform{
+    from{background-color: red;}
+    to{background-color: blue;}
+}
+#form{
+    animation-name: animateform;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
