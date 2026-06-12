@@ -90,4 +90,46 @@ input:active, textarea:active{
     animation-duration: 10s;
     animation-iteration-count: infinite;
 }
+#bb{
+    background-color: rgb(144, 156, 127);
+    color: white;
+    padding: 20px;
+}
+@keyframes bb {
+    from{background-color: rgb(144, 156, 127);}
+    to{background-color: rgb(100, 35, 32);}
+}
+#bb{
+    animation-name: bb;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+#cc{
+    background-color: rgb(144, 156, 127);
+    color: white;
+    padding: 20px;
+}
+@keyframes cc {
+    from{background-color: rgb(144, 156, 127);}
+    to{background-color: rgb(100, 35, 32);}
+}
+#cc{
+    animation-name: cc;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+#ee{
+    background-color: rgb(144, 156, 127);
+    color: white;
+    padding: 20px;
+}
+@keyframes ee {
+    from{background-color: rgb(144, 156, 127);}
+    to{background-color: rgb(100, 35, 32);}
+}
+#ee{
+    animation-name: ee;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
 
