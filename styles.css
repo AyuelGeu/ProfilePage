@@ -58,7 +58,6 @@ li{
     cursor: pointer;
     border-radius: 5px;
     width: 80px;
-    title: "Thank you!";
 }
 #button:hover{
     background-color: white;
